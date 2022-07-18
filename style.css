@@ -1,0 +1,194 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400);
+
+*{
+    margin: auto;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    background-color: beige;
+}
+header{
+    text-align: center;
+    border-bottom: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+}
+#home{
+    height: 15vh;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    background-image: url(./greek-main/img/grk.jpg);
+    background-size: cover;
+}
+#home h1{
+    color: rgb(40,61,112);
+    font-family: 'GFS Neohellenic', sans-serif;
+    font-size: 56px;
+}
+#deol{
+    width: auto;
+    height: 170vh;
+    text-align: center;
+}
+#deol h1{
+    font-size: 60px;
+    border-top: 1px solid black;
+}
+#tg{
+    word-spacing: 50px;
+    font-size: 48px;
+}
+#h{
+    text-decoration: underline;
+    color: rgb(155, 12, 12);
+}
+#z{
+    text-decoration: underline;
+    color: goldenrod;
+}
+#p{
+    text-decoration: underline;
+    color: royalblue;
+}
+#trip{
+
+}
+#he{
+    text-decoration: none;
+    color: black;
+}
+#at{
+    text-decoration: none;
+    color: black;
+}
+#ar{
+    text-decoration: none;
+    color: black;
+}
+#de{
+    text-decoration: none;
+    color: black;
+}
+#ap{
+    text-decoration: none;
+    color: black;
+}
+#art{
+    text-decoration: none;
+    color: black;
+}
+#hef{
+    text-decoration: none;
+    color: black;
+}
+#af{
+    text-decoration: none;
+    color: black;
+}
+#hm{
+    text-decoration: none;
+    color: black;
+}
+#di{
+    text-decoration: none;
+    color: black;
+}
+#criaturas{
+    border-top: 1px solid black;
+    width: auto;
+    height: 120vh;
+    text-align: center;
+}
+#criaturas h1{
+    font-size: 56px;
+}
+#criaturas img{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#sobre{
+    border-top: 1px solid black;
+    width: auto;
+    height: 100vh; 
+    text-align: center;
+}
+#sobre h1{
+    font-size: 56px;
+}
+#contato{
+    border-top: 1px solid black;
+    width: auto;
+    height: 100vh; 
+    text-align: center;
+}
+#contato h1{
+    font-size: 56px;
+}
+.firstcolumn {
+    float: left;
+    width: 5%;
+    padding: 5px;
+    margin-left: 200px;
+    margin-right: 100px;
+  }
+  .firstcolumn img{
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+.column {
+    float: left;
+    width: 10%;
+    padding: 5px;
+    margin-left: 150px;
+  }
+  /* Clearfix (clear floats) */
+  .row::after {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column img{
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .plastcolumn {
+    float: left;
+    width: 10%;
+    padding: 5px;
+    margin-left: 438px;
+  }
+  .plastcolumn img{
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .lastcolumn {
+    float: left;
+    width: 10%;
+    padding: 5px;
+    margin-left: 150px;
+  }
+  .lastcolumn img{
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  footer{
+    border-top: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+    text-align: center;
+  }
+  .ct{
+    margin-right: 50px;
+    float: right;
+  }

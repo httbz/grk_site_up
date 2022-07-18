@@ -1,0 +1,200 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400);
+
+*{
+    margin: auto;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    background-color: beige;
+}
+header{
+    border-bottom: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+    text-align: center;
+    word-spacing: 25px;
+}
+.deuses{
+    margin-top: 50px;
+}
+.deuses h1{
+    margin-left:400px ;
+    font-size: 56px;
+}
+.deuses video{
+ margin-left: 350px;
+border-radius: 25px;
+}
+.texts{
+    font-size: 28px;
+    text-align: center;
+}
+.hades{
+    width: auto;
+    height: 180vh;
+}
+.hades img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.zeus{
+    width: auto;
+    height: 170vh;
+}
+.zeus img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.poseidon{
+    width: auto;
+    height: 160vh;
+}
+.poseidon img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.hera{
+    width: auto;
+    height: 200vh;
+}
+.hera img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.atena{
+    width: auto;
+    height: 190vh;
+}
+.atena img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.ares{
+    width: auto;
+    height: 170vh;
+}
+.ares img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.demeter{
+    width: auto;
+    height: 160vh;
+}
+.demeter img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.apolo{
+    width: auto;
+    height: 170vh;
+}
+.apolo img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.artemis{
+    width: auto;
+    height: 170vh;
+}
+.artemis img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.hefesto{
+    width: auto;
+    height: 160vh;
+}
+.hefesto img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.afrodite{
+    width: auto;
+    height: 205vh;
+}
+.afrodite img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.hermes{
+    width: auto;
+    height: 220vh;
+}
+.hermes img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.dionisio{
+    width: auto;
+    height: 205vh;
+}
+.dionisio img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.ct{
+    margin-right: 50px;
+    float: right;
+  }
+  footer{
+    border-top: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+    text-align: center;
+  }
+ tr{
+    text-align: center;
+ }
+ th{
+    background: #666;
+    color: white;
+    
+ }
+ .roman h1{
+    text-align: center;
+ }

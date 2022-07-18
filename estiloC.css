@@ -1,0 +1,174 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400);
+
+*{
+    margin: auto;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    background-color: beige;
+}
+header{
+    border-bottom: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+    text-align: center;
+    word-spacing: 25px;
+}
+.criaturas{
+    margin-top: 50px;
+}
+.criaturas h1{
+    margin-left:400px ;
+    font-size: 56px;
+}
+.texts{
+    font-size: 28px;
+    text-align: center;
+}
+.pegaso{
+    width: auto;
+    height: 110vh;
+}
+.pegaso img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.minotauro{
+    width: auto;
+    height: 110vh;
+}
+.minotauro img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.ciclope{
+    width: auto;
+    height: 110vh;
+}
+.ciclope img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.centauro{
+    width: auto;
+    height: 110vh;
+}
+.centauro img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.satiro{
+    width: auto;
+    height: 110vh;
+}
+.satiro img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.ninfa{
+    width: auto;
+    height: 110vh;
+}
+.ninfa img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.sereia{
+    width: auto;
+    height: 110vh;
+}
+.sereia img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.quimera{
+    width: auto;
+    height: 110vh;
+}
+.quimera img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.hipocampo{
+    width: auto;
+    height: 110vh;
+}
+.hipocampo img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.gorgona{
+    width: auto;
+    height: 110vh;
+}
+.gorgona img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.equidna{
+    width: auto;
+    height: 110vh;
+}
+.equidna img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.tifao{
+    width: auto;
+    height: 110vh;
+}
+.tifao img{
+    width: 350px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+}
+.ct{
+    margin-right: 50px;
+    float: right;
+  }
+  footer{
+    border-top: 2px solid black;
+    height: 7vh;
+    background-color: silver;
+    text-align: center;
+  }
